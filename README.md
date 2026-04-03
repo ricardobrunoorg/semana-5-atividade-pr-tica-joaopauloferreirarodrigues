@@ -9,18 +9,22 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Paulo Ferreira Rodrigues
+- Matricula: 908448
+- Proposta de projeto escolhida: Proposta 5 - Site Bodybuilding/Fitness
+- Breve descrição sobre seu projeto: O site é voltado para compartilhar treinos, dietas e dicas de saúde, além de contar com um blog pessoal para dividir experiências e atualizações do dia a dia.
+
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](desktop1.jpg)
+![alt text](desktop2.jpg)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](mobile1.jpg)
+![alt text](mobile2.jpg)
+![alt text](mobile3.jpg)
+![alt text](mobile4.jpg)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
